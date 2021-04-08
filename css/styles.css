@@ -34,7 +34,7 @@
 }
 @media screen and (min-width: 1024px) {
   .photogal {
-    grid-template-columns:repeat(5, 50fr) / repeat(3, 50fr);
+    grid-template-columns: repeat(3, 50fr);
   }
   .img-two {
     grid-column: 2 / 4;
